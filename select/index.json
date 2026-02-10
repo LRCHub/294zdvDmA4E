@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "空への手紙",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-10T00:32:34.899797Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空への手紙",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_空への手紙_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空への手紙 - Soraenotegami",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_空への手紙_-_Soraenotegami_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空への手紙",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/03_空への手紙_GREEEEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空への手紙",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/04_空への手紙_GRe4N_BOYZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空への手紙",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_空への手紙_GReeeeN.txt"
+    }
+  ]
+}
